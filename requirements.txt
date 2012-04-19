@@ -1,0 +1,9 @@
+django
+coverage
+django-coverage
+factory_boy
+selenium
+fabric
+pyinotify
+-e git://github.com/peterbe/python-gorun.git#egg=gorun
+flake8
