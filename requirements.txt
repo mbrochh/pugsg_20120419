@@ -1,6 +1,5 @@
 django
 coverage
-django-coverage
 factory_boy
 selenium
 fabric
