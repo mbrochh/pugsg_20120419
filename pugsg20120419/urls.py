@@ -5,6 +5,7 @@ from django.conf.urls import patterns, include, url
 # admin.autodiscover()
 
 urlpatterns = patterns('',
+    url(r'^', include('guestbook.urls')),
     # Examples:
     # url(r'^$', 'pugsg20120419.views.home', name='home'),
     # url(r'^pugsg20120419/', include('pugsg20120419.foo.urls')),
