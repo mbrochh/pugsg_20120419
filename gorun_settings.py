@@ -1,3 +1,3 @@
 DIRECTORIES = (
-        ('.', 'fab test:all=1'),
+        ('.', 'fab test:all=0'),
 )
